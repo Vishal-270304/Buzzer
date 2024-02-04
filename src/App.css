@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: #ffff;
+}
+
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  width:  90vw;
+}
+
+.main img{
+  cursor: pointer;
+  height: 300px;
+  width:  500px;
+}
+
+h1{
+  color: rgb(222, 96, 96);
+  text-align: center;
+}
